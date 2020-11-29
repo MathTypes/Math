@@ -90,8 +90,25 @@
         .math {
             border:10px groove blue;
             padding:5px;
-        }    </style>
+        }
+        .start {
+           position:relative;
+           border:5px groove blue;
+           padding:5px;
+        }
+        .things {
+           border:5px groove yellow;
+           position:relative; 
+           padding:5px;
+        }
+        .mathhistory {
+            position:relative;
+            border:5px groove white;
+            padding:5px;
+        }    
+        </style>
     <h1 id="begen"> Math</h1>
+    <h1 class="start">Beginning</h1><br>
     <a href="https://en.wikipedia.org/wiki/Mathematics">learn more on the Wiki
     </a><br>
     <h6>
@@ -140,6 +157,7 @@
         16.*of calculus<br>
         </p>
     </h3>
+    <h1 class="things">Numbers and signs</h1>
     <h2>Basics</h2>
     <h3 id="addition">Addition</h3>
     <h4 class="math">Adition is the equivilent of adding 2 things together to produce a sum. For example, 2+5= 2 steps after 5, or 7.<br> 
@@ -278,7 +296,7 @@ An example is 10-b=a, and 5+b=a. By adding, it becomes 15=2a, so a=7.5.
 <a href="#begen">links</a>
 <h3 id="calculus">calculus</h3>
 <h4 class="math"> Calculus mostly talks about infinity and shows how to solve many problems very easily. For more info, go to this page.</h4><a href="https://en.wikipedia.org/wiki/Calculus#:~:text=Calculus%2C%20originally%20called%20infinitesimal%20calculus,of%20generalizations%20of%20arithmetic%20operations.">Wiki</a>
-    <div id="info"><h1>History</h1>
+    <div id="info"><h1 class="mathhistory">History</h1>
     <h5>Credit to wikipedia</h5>
 
     <h3 id="Add">Addition</h3><h4 class="history"><p>
@@ -450,4 +468,3 @@ These ideas were arranged into a true calculus of infinitesimals by Gottfried Wi
     <h1 id="End">The end</h1>
     </body> 
 </html>
-
