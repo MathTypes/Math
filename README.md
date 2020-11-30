@@ -11,7 +11,7 @@
             color:rgb(237, 218, 237);
             font-size:11px;
             size:11;
-            width:85%;
+            width:40%;
             margin:50px;
         }
         }
@@ -71,7 +71,7 @@
             background:rgb(56, 39, 4);
             font-weight:bold;
             width:100%;
-        }
+            }
         img {
             
         }
@@ -90,14 +90,67 @@
         .math {
             border:10px groove blue;
             padding:5px;
-        }    </style>
+        }
+        .start {
+           position:relative;
+           border:5px groove blue;
+           padding:5px;
+        }
+        .things {
+           border:5px groove yellow;
+           position:relative; 
+           padding:5px;
+        }
+        .mathhistory {
+            position:relative;
+            border:5px groove white;
+            padding:5px;
+        } 
+        .left {
+            float:right;
+            width:25%;
+            padding:1px;
+            border:3px groove blue;
+            position:fixed;
+            left:355px;
+        }
+        a:hover {
+            color:orange;
+        }
+        a:focus {
+            background:rgb(226, 12, 245);
+        }
+        #up {
+            bottom:156px;
+        }
+        #upp {
+            bottom:186px;
+        }
+        #uppp {
+            bottom:241px;
+        }
+        a:link {
+            color:orange;
+        }
+        a:visited {
+            color:red;
+        }
+        </style>
     <h1 id="begen"> Math</h1>
+    <h1 class="start">Beginning</h1><br>
     <a href="https://en.wikipedia.org/wiki/Mathematics">learn more on the Wiki
     </a><br>
     <h6>
    <br>
         <br>
     </h6>
+    <h3 class="left">websites</h3>
+    <li><a class="left"id="up" href="https://en.wikipedia.org/wiki/Mathematics">wiki</a>
+    <a class="left" href="#begen">top</a>
+    <a id="upp"class="left"href="https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:solve-equations-inequalities">khan academy math</a>
+    <a id="uppp"class="left"href="https://www.worldscientific.com/doi/10.1142/9789814602952_0021">Types of math</a>
+    </li>
+    <a  class="links"href="#End">End</a><br>
     <a href="#contents">contents</a><br>
     <a href="#End">Get to the end</a><br>
     <a href="#addition">adding</a><br>
@@ -140,6 +193,7 @@
         16.*of calculus<br>
         </p>
     </h3>
+    <h1 class="things">Numbers and signs</h1>
     <h2>Basics</h2>
     <h3 id="addition">Addition</h3>
     <h4 class="math">Adition is the equivilent of adding 2 things together to produce a sum. For example, 2+5= 2 steps after 5, or 7.<br> 
@@ -278,7 +332,7 @@ An example is 10-b=a, and 5+b=a. By adding, it becomes 15=2a, so a=7.5.
 <a href="#begen">links</a>
 <h3 id="calculus">calculus</h3>
 <h4 class="math"> Calculus mostly talks about infinity and shows how to solve many problems very easily. For more info, go to this page.</h4><a href="https://en.wikipedia.org/wiki/Calculus#:~:text=Calculus%2C%20originally%20called%20infinitesimal%20calculus,of%20generalizations%20of%20arithmetic%20operations.">Wiki</a>
-    <div id="info"><h1>History</h1>
+    <div id="info"><h1 class="mathhistory">History</h1>
     <h5>Credit to wikipedia</h5>
 
     <h3 id="Add">Addition</h3><h4 class="history"><p>
@@ -450,4 +504,3 @@ These ideas were arranged into a true calculus of infinitesimals by Gottfried Wi
     <h1 id="End">The end</h1>
     </body> 
 </html>
-
