@@ -1,22 +1,19 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
     <head>
         <meta charset="utf-8">
         <title>MATH</title>
-    </head>
-    <body>
-    <style>
+        <style>
         body {
             background:rgb(235, 18, 36);
             color:rgb(237, 218, 237);
             font-size:11px;
-            size:11;
             width:40%;
             margin:50px;
-        }
+            font-family:"Helvetica",cursive;
         }
         h5 {
-            font-family:cursive;
+            font-family:"Helvetica",cursive;
             color:yellow;
             background:darkblue;
             font-weight:bold;
@@ -25,7 +22,7 @@
             width:90%;
         }
         h4 {
-          font-family:cursive;
+          font-family:"Helvetica",cursive;
           font-size:1.5em;
           font-style:italic;
           text-align: center;
@@ -60,7 +57,7 @@
             font-size:1.5em;
             color:rgb(240, 228, 9);
             background:rgb(10, 4, 10);
-            font-family:"ariel",serif;
+            font-family:"Helvetica","ariel",serif;
             text-align: center;
             width:100%;
         }
@@ -77,7 +74,7 @@
         }
         p {
             font-size:1.25em;
-            font-family:pacifico,cursive;
+            font-family:"Helvetica","pacifico",cursive;
             color:rgb(245, 5, 245);
             background:black;
             font-style:italic;
@@ -136,21 +133,22 @@
             color:red;
         }
         </style>
+    </head>
+    <body>
     <h1 id="begen"> Math</h1>
     <h1 class="start">Beginning</h1><br>
     <a href="https://en.wikipedia.org/wiki/Mathematics">learn more on the Wiki
     </a><br>
     <h6>
-   <br>
+   cool<br>
         <br>
     </h6>
     <h3 class="left">websites</h3>
-    <li><a class="left"id="up" href="https://en.wikipedia.org/wiki/Mathematics">wiki</a>
+    <a class="left" id="up" href="https://en.wikipedia.org/wiki/Mathematics">wiki</a>
     <a class="left" href="#begen">top</a>
-    <a id="upp"class="left"href="https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:solve-equations-inequalities">khan academy math</a>
-    <a id="uppp"class="left"href="https://www.worldscientific.com/doi/10.1142/9789814602952_0021">Types of math</a>
-    </li>
-    <a  class="links"href="#End">End</a><br>
+    <a id="upp" class="left" href="https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:solve-equations-inequalities">khan academy math</a>
+    <a id="uppp" class="left" href="https://www.worldscientific.com/doi/10.1142/9789814602952_0021">Types of math</a>
+    <a  class="links" href="#End">End</a><br>
     <a href="#contents">contents</a><br>
     <a href="#End">Get to the end</a><br>
     <a href="#addition">adding</a><br>
@@ -160,7 +158,7 @@
     <a href="#squares">squares</a><br>
     <a href="#division">division</a><br>
     <a href="#Other">other terms</a><br>
-    <a href="#medeuim math">medeuim math</a><br>
+    <a href="#medeuim-math">medeuim math</a><br>
     <a href="#algebra">algebra</a><br>
     <a href="#geometry">geometric shapes</a><br>
     <a href="#calculus">calculus</a>
@@ -172,12 +170,13 @@
     <a href="#Exponential">History of exponents</a><br>
     <a href="#Algebra">History of algebra</a><br>
     <a href="#Geometry">History of geometry</a><br>
+    <a href="#hard">Hard math</a><br>
     <a href="#Calculus">History of calculus</a><br>
     <a href="#End">End</a>
     <h4 id="contents">Table of contents</h4>
-    <h3><p>1.Addition<br>
-        2.Subtraction<br>
-        3.Multiplacation<br>
+    <h3>1.Addition<br>
+        2.Subtract<br>
+        3.Multiply<br>
         4.Division<br>
         5.Exponents<br>
         6.Algebra<br>
@@ -185,13 +184,12 @@
         8.Calculus<br>
         9.History of addition<br>
         10.*of subtraction<br>
-        11.*of multiplacation<br>
+        11.*of multiplying<br>
         12.*of division<br>
         13.*of exponents<br>
         14.*of algebra<br>
         15.*of geometry<br>
         16.*of calculus<br>
-        </p>
     </h3>
     <h1 class="things">Numbers and signs</h1>
     <h2>Basics</h2>
@@ -257,7 +255,7 @@ The sign for a square root is called a radical.(For more info, there is also a c
 <h4 class="math">Here is some info on other math terms in the table below</h4>
 <table class="math">
     <tbody>
-        <tr> <th>term</th><br>
+        <tr> <th>term</th>
         <th> what it does
         </tr>
         <tr>
@@ -265,7 +263,7 @@ The sign for a square root is called a radical.(For more info, there is also a c
             <td>changes the number into their diffrence to zero(-1|=1)
         </tr>
                    <tr>
-            <td>&lt
+            <td>the sign for less than
             <td>less than (> is greater than)</td>
         </tr>         
         <tr>
@@ -283,7 +281,7 @@ The sign for a square root is called a radical.(For more info, there is also a c
     </tbody>
 </table>
 <a href="#begen">links</a>
-<h2 id="medeuim math">medeuim math</h2>
+<h2 id="medeuim-math">medeuim math</h2>
 <h3 id="algebra">Algebra</h3>
 <h4 class="math">Algebra is mostly about letters standing as numbers, linear equations, and a bit about graphs.(as far as I'm aware)<br>
 An example is 10-b=a, and 5+b=a. By adding, it becomes 15=2a, so a=7.5.
@@ -330,19 +328,20 @@ An example is 10-b=a, and 5+b=a. By adding, it becomes 15=2a, so a=7.5.
     </thead>
 </table>
 <a href="#begen">links</a>
+<h2 id="hard" class="math">Hard</h2>
 <h3 id="calculus">calculus</h3>
 <h4 class="math"> Calculus mostly talks about infinity and shows how to solve many problems very easily. For more info, go to this page.</h4><a href="https://en.wikipedia.org/wiki/Calculus#:~:text=Calculus%2C%20originally%20called%20infinitesimal%20calculus,of%20generalizations%20of%20arithmetic%20operations.">Wiki</a>
     <div id="info"><h1 class="mathhistory">History</h1>
     <h5>Credit to wikipedia</h5>
 
-    <h3 id="Add">Addition</h3><h4 class="history"><p>
+    <h3 id="Add">Addition</h3><h4 class="history">
     Addition is one of the oldest and the most basic arithmetic operation. It is known to mathematician since more than 6000 years. The ‘counting’ was considered as an early form of addition.<br>
 The first official evidence of addition is that it was used by Egyptians and Babylonians in 2000 BC. The symbols of addition and subtraction were invented in around 16th century, but before that, the equations were written in words, which makes it really time consuming to solve the problems.
-</p>
+
 </h4>
 <a href="#begen">links</a>
     <h3 id="Subtract">Subtraction</h3>
-    <h4 class="history"><p>Subtract joins two easy to understand roots, the sub which commonly means under or below, and the tract from words like tractor and traction meaning to pull or carry away. Subtraction then, literally means to carry away the bottom part. The "-" symbol for subtraction was first used in Germany as markings on barrels to indicate those that were underfilled. Around the 1500's it began to be used as an operational symbol and it became common in English after it was used by Robert Recorde in The Whetstone of Witte in 1557. 
+    <h4 class="history">Subtract joins two easy to understand roots, the sub which commonly means under or below, and the tract from words like tractor and traction meaning to pull or carry away. Subtraction then, literally means to carry away the bottom part. The "-" symbol for subtraction was first used in Germany as markings on barrels to indicate those that were underfilled. Around the 1500's it began to be used as an operational symbol and it became common in English after it was used by Robert Recorde in The Whetstone of Witte in 1557. 
 
 
 <br>
@@ -365,17 +364,17 @@ Susan Ross and Mary Pratt-Cotter [Subtraction in the United States: An Historica
 The research by Ross and Pratt-Cotter indicated that before 1937 there were few illustrations in American textbooks that show any physical "marking through or numbers being rewritten". Their work states that almost overnight, after a study by William Brownell, "most textbooks used the decomposition (borrow) method for describing borrowing in subtraction, and the use of the crutch described by Brownell became very popular. Today this method of subtraction is used in most textbooks that teach subtraction." The study also states,<br>
 Only one example was found, from a text published in 1857(Ray's Practical Arithmetic), where markings were used to keep track of the renaming process. This was done in only one problem in the text, with all other problems worked without any markings. Brownell was not aware, however, of any textbook employing this technique.
 <br>
-his statement, which I assume to be true, and the existence of a clear example of the "borrow" with markings in an 1898 copy of Gill's Oxford and Cambridge Practical Arithmetic , shown at right, make me suspect that the borrowing crutch first appeared in England and then made it's way to America.</p></h4>
+his statement, which I assume to be true, and the existence of a clear example of the "borrow" with markings in an 1898 copy of Gill's Oxford and Cambridge Practical Arithmetic , shown at right, make me suspect that the borrowing crutch first appeared in England and then made it's way to America.</h4>
 <a href="#begen">links</a>
 <h3 id="Multiply">Mulutiplacation</h3>
-    <h4 class="history"><p>The oldest known multiplication tables were used by the Babylonians about 4000 years ago.[2] However, they used a base of 60.[2] The oldest known tables using a base of 10 are the Chinese decimal multiplication table on bamboo strips dating to about 305 BC, during China's Warring States period.[2]<br>
+    <h4 class="history">The oldest known multiplication tables were used by the Babylonians about 4000 years ago.[2] However, they used a base of 60.[2] The oldest known tables using a base of 10 are the Chinese decimal multiplication table on bamboo strips dating to about 305 BC, during China's Warring States period.[2]<br>
 "Table of Pythagoras" on Napier's bones[3]
 The multiplication table is sometimes attributed to the ancient Greek mathematician Pythagoras (570–495 BC). It is also called the Table of Pythagoras in many languages (for example French, Italian and Russian), sometimes in English.[4] The Greco-Roman mathematician Nichomachus (60–120 AD), a follower of Neopythagoreanism, included a multiplication table in his Introduction to Arithmetic, whereas the oldest surviving Greek multiplication table is on a wax tablet dated to the 1st century AD and currently housed in the British Museum.[5]<br>
 In 493 AD, Victorius of Aquitaine wrote a 98-column multiplication table which gave (in Roman numerals) the product of every number from 2 to 50 times and the rows were "a list of numbers starting with one thousand, descending by hundreds to one hundred, then descending by tens to ten, then by ones to one, and then the fractions down to 1/144."[6]<br>
-In his 1820 book The Philosophy of Arithmetic,[7] mathematician John Leslie published a multiplication table up to 99 × 99, which allows numbers to be multiplied in pairs of digits at a time. Leslie also recommended that young pupils memorize the multiplication table up to 50 × 50. The illustration below shows a table up to 12 × 12, which is a size commonly used in schools.</p></h4>
+In his 1820 book The Philosophy of Arithmetic,[7] mathematician John Leslie published a multiplication table up to 99 × 99, which allows numbers to be multiplied in pairs of digits at a time. Leslie also recommended that young pupils memorize the multiplication table up to 50 × 50. The illustration below shows a table up to 12 × 12, which is a size commonly used in schools.</h4>
 <a href="#begen">links</a>
         <h3 id="Divide">Division</h3>
-    <h4 class="history"><p>There have been many ways of designating division and we are going to explain the origin of some of the symbols most used and best known by all.<br>
+    <h4 class="history">There have been many ways of designating division and we are going to explain the origin of some of the symbols most used and best known by all.<br>
 
 The horizontal bar of fractions, introduced by the Arabs, was first used in Europe by the mathematician Fibonacci in the thirteenth century, although its use did not spread until the sixteenth century.
 <br>
@@ -394,11 +393,11 @@ The German mathematician, Gottfried W. Leibniz, introduced the two points ( : ),
 As for the gnomon or angle that we use to separate the factors of the division (dividend, divisor, and quotient), there is not much information.<br>
 
 But Boyer, in his History of Mathematics, p.282, says: “The Arabs, and through them later the Europeans, adopted most of their arithmetical artifices from the Hindus, and so it is very probable that the method of ‘long division’ known as the ‘galley method’ by its resemblance to a ship with the sails unfolded, also comes from India.” Apparently, the  “galley method” used an angle similar to the one currently used.
-division and multiplication.</p><br>
+division and multiplication.<br>
 </h4>
 <a href="#begen">links</a>
     <h3 id="Exponential">Exponents</h3>
-    <h4 class="history"><p>The term power (Latin: potentia, potestas, dignitas) is a mistranslation[4][5] of the ancient Greek δύναμις (dúnamis, here: "amplification"[4]) used by the Greek mathematician Euclid for the square of a line,[6] following Hippocrates of Chios.[7] Archimedes discovered and proved the law of exponents, 10a ⋅ 10b = 10a+b, necessary to manipulate powers of 10.[8][better source needed] In the 9th century, the Persian mathematician Muhammad ibn Mūsā al-Khwārizmī used the terms مَال (māl, "possessions", "property") for a square—the Muslims, "like most mathematicians of those and earlier times, thought of a squared number as a depiction of an area, especially of land, hence property"[9]—and كَعْبَة (kaʿbah, "cube") for a cube, which later Islamic mathematicians represented in mathematical notation as the letters mīm (m) and kāf (k), respectively, by the 15th century, as seen in the work of Abū al-Hasan ibn Alī al-Qalasādī.[10]<br>
+    <h4 class="history">The term power (Latin: potentia, potestas, dignitas) is a mistranslation[4][5] of the ancient Greek δύναμις (dúnamis, here: "amplification"[4]) used by the Greek mathematician Euclid for the square of a line,[6] following Hippocrates of Chios.[7] Archimedes discovered and proved the law of exponents, 10a ⋅ 10b = 10a+b, necessary to manipulate powers of 10.[8][better source needed] In the 9th century, the Persian mathematician Muhammad ibn Mūsā al-Khwārizmī used the terms مَال (māl, "possessions", "property") for a square—the Muslims, "like most mathematicians of those and earlier times, thought of a squared number as a depiction of an area, especially of land, hence property"[9]—and كَعْبَة (kaʿbah, "cube") for a cube, which later Islamic mathematicians represented in mathematical notation as the letters mīm (m) and kāf (k), respectively, by the 15th century, as seen in the work of Abū al-Hasan ibn Alī al-Qalasādī.[10]<br>
 In the late 16th century, Jost Bürgi used Roman numerals for exponents.[11]<br>
 
 Nicolas Chuquet used a form of exponential notation in the 15th century, which was later used by Henricus Grammateus and Michael Stifel in the 16th century. The word exponent was coined in 1544 by Michael Stifel.[12][13] Samuel Jeake introduced the term indices in 1696.[6] In the 16th century, Robert Recorde used the terms square, cube, zenzizenzic (fourth power), sursolid (fifth), zenzicube (sixth), second sursolid (seventh), and zenzizenzizenzic (eighth).[9] Biquadrate has been used to refer to the fourth power as well.<br>
@@ -413,10 +412,10 @@ In 1748, Leonhard Euler wrote:<br>
 
 "consider exponentials or powers in which the exponent itself is a variable. It is clear that quantities of this kind are not algebraic functions, since in those the exponents must be constant."[16]<br>
 
-With this introduction of transcendental functions, Euler laid the foundation for the modern introduction of natural logarithm—as the inverse function for the natural exponential function, f(x) = ex.</p></h4>
+With this introduction of transcendental functions, Euler laid the foundation for the modern introduction of natural logarithm—as the inverse function for the natural exponential function, f(x) = ex.</h4>
 <a href="#begen">links</a>
     <h3 id="Algebra">Algebra</h3>
-    <h4 class="history"><p>The word "algebra" is derived from the Arabic word الجبر al-jabr, and this comes from the treatise written in the year 830 by the medieval Persian mathematician, Muhammad ibn Mūsā al-Khwārizmī, whose Arabic title, Kitāb al-muḫtaṣar fī ḥisāb al-ğabr wa-l-muqābala, can be translated as The Compendious Book on Calculation by Completion and Balancing. The treatise provided for the systematic solution of linear and quadratic equations. According to one history, "[i]t is not certain just what the terms al-jabr and muqabalah mean, but the usual interpretation is similar to that implied in the previous translation. The word 'al-jabr' presumably meant something like 'restoration' or 'completion' and seems to refer to the transposition of subtracted terms to the other side of an equation; the word 'muqabalah' is said to refer to 'reduction' or 'balancing'—that is, the cancellation of like terms on opposite sides of the equation. Arabic influence in Spain long after the time of al-Khwarizmi is found in Don Quixote, where the word 'algebrista' is used for a bone-setter, that is, a 'restorer'."[1] The term is used by al-Khwarizmi to describe the operations that he introduced, "reduction" and "balancing", referring to the transposition of subtracted terms to the other side of an equation, that is, the cancellation of like terms on opposite sides of the equation.[2]
+    <h4 class="history">The word "algebra" is derived from the Arabic word الجبر al-jabr, and this comes from the treatise written in the year 830 by the medieval Persian mathematician, Muhammad ibn Mūsā al-Khwārizmī, whose Arabic title, Kitāb al-muḫtaṣar fī ḥisāb al-ğabr wa-l-muqābala, can be translated as The Compendious Book on Calculation by Completion and Balancing. The treatise provided for the systematic solution of linear and quadratic equations. According to one history, "[i]t is not certain just what the terms al-jabr and muqabalah mean, but the usual interpretation is similar to that implied in the previous translation. The word 'al-jabr' presumably meant something like 'restoration' or 'completion' and seems to refer to the transposition of subtracted terms to the other side of an equation; the word 'muqabalah' is said to refer to 'reduction' or 'balancing'—that is, the cancellation of like terms on opposite sides of the equation. Arabic influence in Spain long after the time of al-Khwarizmi is found in Don Quixote, where the word 'algebrista' is used for a bone-setter, that is, a 'restorer'."[1] The term is used by al-Khwarizmi to describe the operations that he introduced, "reduction" and "balancing", referring to the transposition of subtracted terms to the other side of an equation, that is, the cancellation of like terms on opposite sides of the equation.[2]
 <br>
 Stages of algebra
 See also: Timeline of algebra
@@ -429,12 +428,12 @@ Symbolic algebra, in which full symbolism is used. Early steps toward this can b
 Equally important as the use or lack of symbolism in algebra was the degree of the equations that were addressed. Quadratic equations played an important role in early algebra; and throughout most of history, until the early modern period, all quadratic equations were classified as belonging to one of three categories.
 This trichotomy comes about because quadratic equations of the form {\displaystyle x^{2}+px+q=0}x^{2}+px+q=0, with p and q positive, have no positive roots.[4]
 
-In between the rhetorical and syncopated stages of symbolic algebra, a geometric constructive algebra was developed by classical Greek and Vedic Indian mathematicians in which algebraic equations were solved through geometry. For instance, an equation of the form {\displaystyle x^{2}=A}x^{2}=A was solved by finding the side of a square of area A.</p></h4>
+In between the rhetorical and syncopated stages of symbolic algebra, a geometric constructive algebra was developed by classical Greek and Vedic Indian mathematicians in which algebraic equations were solved through geometry. For instance, an equation of the form {\displaystyle x^{2}=A}x^{2}=A was solved by finding the side of a square of area A.</h4>
 <a href="#begen">links</a>
     <h3 id="Geometry">Geometry</h3>
-    <h4 class="history"><p>Geometry's origins go back to approximately 3,000 BC in ancient Egypt. Ancient Egyptians used an early stage of geometry in several ways, including the surveying of land, construction of pyramids, and astronomy. Around 2,900 BC, ancient Egyptians began using their knowledge to construct pyramids with four triangular faces and a square base.
+    <h4 class="history">Geometry's origins go back to approximately 3,000 BC in ancient Egypt. Ancient Egyptians used an early stage of geometry in several ways, including the surveying of land, construction of pyramids, and astronomy. Around 2,900 BC, ancient Egyptians began using their knowledge to construct pyramids with four triangular faces and a square base.<br>
 
-Euclid's Elements
+<br>Euclid's Elements
 The next great advancement in geometry came from Euclid in 300 BC when he wrote a text titled 'Elements.' In this text, Euclid presented an ideal axiomatic form (now known as Euclidean geometry) in which propositions could be proven through a small set of statements that are accepted as true. In fact, Euclid was able to derive a great portion of planar geometry from just the first five postulates in 'Elements.' These postulates are listed below:
 <br>
 (1) A straight line segment can be drawn joining any two points.
@@ -453,50 +452,50 @@ René Descartes' Coordinate Geometry
 The next tremendous advancement in the field of geometry occurred in the 17th century when René Descartes discovered coordinate geometry. Coordinates and equations could be used in this type of geometry in order to illustrate proofs. The creation of coordinate geometry opened the doors to the development of calculus and physics.<br>
 
 The Development of Non-Euclidean Geometry
-In the 19th century, Carl Friedrich Gauss, Nikolai Lobachevsky, and János Bolyai formally discovered non-Euclidean geometry. In this kind of geometry, four of Euclid's first five postulates remained consistent, but the idea that parallel lines do not meet did not stay true. This idea is a driving force behind elliptical geometry and hyperbolic geometry.</p></h4>
+In the 19th century, Carl Friedrich Gauss, Nikolai Lobachevsky, and János Bolyai formally discovered non-Euclidean geometry. In this kind of geometry, four of Euclid's first five postulates remained consistent, but the idea that parallel lines do not meet did not stay true. This idea is a driving force behind elliptical geometry and hyperbolic geometry.<br></h4>
 <a href="#begen">links</a>
     <h3 id="Calculus">Calculus</h3>
-    <h4 class="history"><p>Modern calculus was developed in 17th-century Europe by Isaac Newton and Gottfried Wilhelm Leibniz (independently of each other, first publishing around the same time) but elements of it appeared in ancient Greece, then in China and the Middle East, and still later again in medieval Europe and in India.
+    <h4 class="history">Modern calculus was developed in 17th-century Europe by Isaac Newton and Gottfried Wilhelm Leibniz (independently of each other, first publishing around the same time) but elements of it appeared in ancient Greece, then in China and the Middle East, and still later again in medieval Europe and in India.<br>
 
-Ancient
+Ancient<br>
 
 Archimedes used the method of exhaustion to calculate the area under a parabola.
-The ancient period introduced some of the ideas that led to integral calculus, but does not seem to have developed these ideas in a rigorous and systematic way. Calculations of volume and area, one goal of integral calculus, can be found in the Egyptian Moscow papyrus (13th dynasty, c. 1820 BC); but the formulas are simple instructions, with no indication as to method, and some of them lack major components.[5]
+The ancient period introduced some of the ideas that led to integral calculus, but does not seem to have developed these ideas in a rigorous and systematic way. Calculations of volume and area, one goal of integral calculus, can be found in the Egyptian Moscow papyrus (13th dynasty, c. 1820 BC); but the formulas are simple instructions, with no indication as to method, and some of them lack major components.[5]<br>
 
-From the age of Greek mathematics, Eudoxus (c.408–355 BC) used the method of exhaustion, which foreshadows the concept of the limit, to calculate areas and volumes, while Archimedes (c. 287–212 BC) developed this idea further, inventing heuristics which resemble the methods of integral calculus.[6]
+From the age of Greek mathematics, Eudoxus (c.408–355 BC) used the method of exhaustion, which foreshadows the concept of the limit, to calculate areas and volumes, while Archimedes (c. 287–212 BC) developed this idea further, inventing heuristics which resemble the methods of integral calculus.[6]<br>
 
-The method of exhaustion was later discovered independently in China by Liu Hui in the 3rd century AD in order to find the area of a circle.[7] In the 5th century AD, Zu Gengzhi, son of Zu Chongzhi, established a method[8][9] that would later be called Cavalieri's principle to find the volume of a sphere.
+The method of exhaustion was later discovered independently in China by Liu Hui in the 3rd century AD in order to find the area of a circle.[7] In the 5th century AD, Zu Gengzhi, son of Zu Chongzhi, established a method[8][9] that would later be called Cavalieri's principle to find the volume of a sphere.<br>
 
-Medieval
+Medieval<br>
 
 Alhazen, 11th century Arab mathematician and physicist
-In the Middle East, Hasan Ibn al-Haytham, Latinized as Alhazen (c. 965 – c. 1040 ce) derived a formula for the sum of fourth powers. He used the results to carry out what would now be called an integration of this function, where the formulae for the sums of integral squares and fourth powers allowed him to calculate the volume of a paraboloid.[10]
+In the Middle East, Hasan Ibn al-Haytham, Latinized as Alhazen (c. 965 – c. 1040 ce) derived a formula for the sum of fourth powers. He used the results to carry out what would now be called an integration of this function, where the formulae for the sums of integral squares and fourth powers allowed him to calculate the volume of a paraboloid.[10]<br>
 
-<p>In the 14th century, Indian mathematicians gave a non-rigorous method, resembling differentiation, applicable to some trigonometric functions. Madhava of Sangamagrama and the Kerala School of Astronomy and Mathematics thereby stated components of calculus. A complete theory encompassing these components is now well known in the Western world as the Taylor series or infinite series approximations.[11] However, they were not able to "combine many differing ideas under the two unifying themes of the derivative and the integral, show the connection between the two, and turn calculus into the great problem-solving tool we have today".[10]
+In the 14th century, Indian mathematicians gave a non-rigorous method, resembling differentiation, applicable to some trigonometric functions. Madhava of Sangamagrama and the Kerala School of Astronomy and Mathematics thereby stated components of calculus. A complete theory encompassing these components is now well known in the Western world as the Taylor series or infinite series approximations.[11] However, they were not able to "combine many differing ideas under the two unifying themes of the derivative and the integral, show the connection between the two, and turn calculus into the great problem-solving tool we have today".[10]<br>
 
-<p>Modern
+Modern<br>
 
-<p>In Europe, the foundational work was a treatise written by Bonaventura Cavalieri, who argued that volumes and areas should be computed as the sums of the volumes and areas of infinitesimally thin cross-sections. The ideas were similar to Archimedes' in The Method, but this treatise is believed to have been lost in the 13th century, and was only rediscovered in the early 20th century, and so would have been unknown to Cavalieri. Cavalieri's work was not well respected since his methods could lead to erroneous results, and the infinitesimal quantities he introduced were disreputable at first.
+In Europe, the foundational work was a treatise written by Bonaventura Cavalieri, who argued that volumes and areas should be computed as the sums of the volumes and areas of infinitesimally thin cross-sections. The ideas were similar to Archimedes' in The Method, but this treatise is believed to have been lost in the 13th century, and was only rediscovered in the early 20th century, and so would have been unknown to Cavalieri. Cavalieri's work was not well respected since his methods could lead to erroneous results, and the infinitesimal quantities he introduced were disreputable at first.<br>
 
-<p>The formal study of calculus brought together Cavalieri's infinitesimals with the calculus of finite differences developed in Europe at around the same time. Pierre de Fermat, claiming that he borrowed from Diophantus, introduced the concept of adequality, which represented equality up to an infinitesimal error term.[13] The combination was achieved by John Wallis, Isaac Barrow, and James Gregory, the latter two proving the second fundamental theorem of calculus around 1670.
-
-
-<p>Isaac Newton developed the use of calculus in his laws of motion and gravitation.
-The product rule and chain rule,[14] the notions of higher derivatives and Taylor series,[15] and of analytic functions[citation needed] were used by Isaac Newton in an idiosyncratic notation which he applied to solve problems of mathematical physics. In his works, Newton rephrased his ideas to suit the mathematical idiom of the time, replacing calculations with infinitesimals by equivalent geometrical arguments which were considered beyond reproach. He used the methods of calculus to solve the problem of planetary motion, the shape of the surface of a rotating fluid, the oblateness of the earth, the motion of a weight sliding on a cycloid, and many other problems discussed in his Principia Mathematica (1687). In other work, he developed series expansions for functions, including fractional and irrational powers, and it was clear that he understood the principles of the Taylor series. He did not publish all these discoveries, and at this time infinitesimal methods were still considered disreputable.
+The formal study of calculus brought together Cavalieri's infinitesimals with the calculus of finite differences developed in Europe at around the same time. Pierre de Fermat, claiming that he borrowed from Diophantus, introduced the concept of adequality, which represented equality up to an infinitesimal error term.[13] The combination was achieved by John Wallis, Isaac Barrow, and James Gregory, the latter two proving the second fundamental theorem of calculus around 1670.<br>
 
 
-<p>Gottfried Wilhelm Leibniz was the first to state clearly the rules of calculus.
-These ideas were arranged into a true calculus of infinitesimals by Gottfried Wilhelm Leibniz, who was originally accused of plagiarism by Newton.[16] He is now regarded as an independent inventor of and contributor to calculus. His contribution was to provide a clear set of rules for working with infinitesimal quantities, allowing the computation of second and higher derivatives, and providing the product rule and chain rule, in their differential and integral forms. Unlike Newton, Leibniz paid a lot of attention to the formalism, often spending days determining appropriate symbols for concepts.
+Isaac Newton developed the use of calculus in his laws of motion and gravitation.
+The product rule and chain rule,[14] the notions of higher derivatives and Taylor series,[15] and of analytic functions[citation needed] were used by Isaac Newton in an idiosyncratic notation which he applied to solve problems of mathematical physics. In his works, Newton rephrased his ideas to suit the mathematical idiom of the time, replacing calculations with infinitesimals by equivalent geometrical arguments which were considered beyond reproach. He used the methods of calculus to solve the problem of planetary motion, the shape of the surface of a rotating fluid, the oblateness of the earth, the motion of a weight sliding on a cycloid, and many other problems discussed in his Principia Mathematica (1687). In other work, he developed series expansions for functions, including fractional and irrational powers, and it was clear that he understood the principles of the Taylor series. He did not publish all these discoveries, and at this time infinitesimal methods were still considered disreputable.<br>
 
-<p>Today, Leibniz and Newton are usually both given credit for independently inventing and developing calculus. Newton was the first to apply calculus to general physics and Leibniz developed much of the notation used in calculus today. The basic insights that both Newton and Leibniz provided were the laws of differentiation and integration, second and higher derivatives, and the notion of an approximating polynomial series. By Newton's time, the fundamental theorem of calculus was known.
 
-<p>When Newton and Leibniz first published their results, there was great controversy over which mathematician (and therefore which country) deserved credit. Newton derived his results first (later to be published in his Method of Fluxions), but Leibniz published his "Nova Methodus pro Maximis et Minimis" first. Newton claimed Leibniz stole ideas from his unpublished notes, which Newton had shared with a few members of the Royal Society. This controversy divided English-speaking mathematicians from continental European mathematicians for many years, to the detriment of English mathematics.[citation needed] A careful examination of the papers of Leibniz and Newton shows that they arrived at their results independently, with Leibniz starting first with integration and Newton with differentiation. It is Leibniz, however, who gave the new discipline its name. Newton called his calculus "the science of fluxions".
+Gottfried Wilhelm Leibniz was the first to state clearly the rules of calculus.
+These ideas were arranged into a true calculus of infinitesimals by Gottfried Wilhelm Leibniz, who was originally accused of plagiarism by Newton.[16] He is now regarded as an independent inventor of and contributor to calculus. His contribution was to provide a clear set of rules for working with infinitesimal quantities, allowing the computation of second and higher derivatives, and providing the product rule and chain rule, in their differential and integral forms. Unlike Newton, Leibniz paid a lot of attention to the formalism, often spending days determining appropriate symbols for concepts.<br>
 
-<p>Since the time of Leibniz and Newton, many mathematicians have contributed to the continuing development of calculus. One of the first and most complete works on both infinitesimal and integral calculus was written in 1748 by Maria Gaetana Agnesi.[17]
+Today, Leibniz and Newton are usually both given credit for independently inventing and developing calculus. Newton was the first to apply calculus to general physics and Leibniz developed much of the notation used in calculus today. The basic insights that both Newton and Leibniz provided were the laws of differentiation and integration, second and higher derivatives, and the notion of an approximating polynomial series. By Newton's time, the fundamental theorem of calculus was known.<br>
+
+When Newton and Leibniz first published their results, there was great controversy over which mathematician (and therefore which country) deserved credit. Newton derived his results first (later to be published in his Method of Fluxions), but Leibniz published his "Nova Methodus pro Maximis et Minimis" first. Newton claimed Leibniz stole ideas from his unpublished notes, which Newton had shared with a few members of the Royal Society. This controversy divided English-speaking mathematicians from continental European mathematicians for many years, to the detriment of English mathematics.[citation needed] A careful examination of the papers of Leibniz and Newton shows that they arrived at their results independently, with Leibniz starting first with integration and Newton with differentiation. It is Leibniz, however, who gave the new discipline its name. Newton called his calculus "the science of fluxions".<br>
+
+Since the time of Leibniz and Newton, many mathematicians have contributed to the continuing development of calculus. One of the first and most complete works on both infinitesimal and integral calculus was written in 1748 by Maria Gaetana Agnesi.[17]
 </h4></div>
     <a href="#begen">Return</a><br>
     <h6>
-        <br>
+    cool    <br>
         <br>
     </h6>
         <a href="https://en.wikipedia.org/wiki/Mathematics">learn more on the Wiki
