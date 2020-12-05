@@ -10,10 +10,10 @@
             font-size:11px;
             width:40%;
             margin:50px;
-            font-family:"Helvetica",cursive;
+            font-family:"Helvetica",cursive, monospace, "aerial", sans-serif, serif, "Pacifico";
         }
         h5 {
-            font-family:"Helvetica",cursive;
+            font-family:"Helvetica", "Pacifico"cursive, monospace, "aerial", fantasy, cursive, sans-serif, serif;
             color:yellow;
             background:darkblue;
             font-weight:bold;
@@ -22,13 +22,13 @@
             width:90%;
         }
         h4 {
-          font-family:"Helvetica",cursive;
+          font-family:"Helvetica", "Pacifico"cursive, monospace, "aerial", fantasy, cursive, sans-serif, serif;
           font-size:1.5em;
           font-style:italic;
           text-align: center;
         }
         h3 {
-           font-family:monospace;
+           font-family:monospace, "Helvetica", "Pacifico"cursive, monospace, "aerial", fantasy, cursive, sans-serif, serif, monospace;
            font-size:2.125em;
            color:rgb(191, 157, 191);
            background:rgb(245, 214, 12);
@@ -38,7 +38,7 @@
            width:90%;
         }
         h2 {
-            font-family:"helvetica",san-serif;
+            font-family:"Helvetica", "Pacifico"cursive, monospace, "aerial", fantasy, cursive, sans-serif, serif;
             font-size:2.25em;
             color:rgb(14, 232, 177);
             background:rgb(242, 14, 196);
@@ -57,13 +57,13 @@
             font-size:1.5em;
             color:rgb(240, 228, 9);
             background:rgb(10, 4, 10);
-            font-family:"Helvetica","ariel",serif;
+            font-family:"Helvetica", "Pacifico"cursive, monospace, "aerial", fantasy, cursive, sans-serif, serif;
             text-align: center;
             width:100%;
         }
         a {
             font-size:1.49em;
-            font-family:fantasy;
+            font-family:fantasy, "Helvetica", "Pacifico"cursive, monospace, "aerial", fantasy, cursive, sans-serif, serif;
             color:white;
             background:rgb(56, 39, 4);
             font-weight:bold;
@@ -74,7 +74,7 @@
         }
         p {
             font-size:1.25em;
-            font-family:"Helvetica","pacifico",cursive;
+            font-family:"Helvetica", "Pacifico"cursive, monospace, "aerial", fantasy, cursive, sans-serif, serif;
             color:rgb(245, 5, 245);
             background:black;
             font-style:italic;
